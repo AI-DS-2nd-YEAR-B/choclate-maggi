@@ -5,3 +5,4 @@ stir
 add pasta
 stir well
 boil for 5 mins
+take content to bowl
