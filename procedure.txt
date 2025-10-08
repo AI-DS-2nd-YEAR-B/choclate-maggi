@@ -4,3 +4,4 @@ add masala spicies
 stir
 add pasta
 boil for 10 mins
+mix well
